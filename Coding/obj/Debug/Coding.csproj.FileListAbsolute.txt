@@ -1,0 +1,27 @@
+C:\Users\Elisa\Desktop\Coding\Coding\bin\Debug\Coding.exe.config
+C:\Users\Elisa\Desktop\Coding\Coding\bin\Debug\Coding.exe
+C:\Users\Elisa\Desktop\Coding\Coding\bin\Debug\Coding.pdb
+C:\Users\Elisa\Desktop\Coding\Coding\obj\Debug\Coding.csprojResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\Coding\Coding\obj\Debug\Coding.Form1.resources
+C:\Users\Elisa\Desktop\Coding\Coding\obj\Debug\Coding.Properties.Resources.resources
+C:\Users\Elisa\Desktop\Coding\Coding\obj\Debug\Coding.csproj.GenerateResource.Cache
+C:\Users\Elisa\Desktop\Coding\Coding\obj\Debug\Coding.exe
+C:\Users\Elisa\Desktop\Coding\Coding\obj\Debug\Coding.pdb
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\bin\Debug\Coding.exe.config
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\obj\Debug\Coding.exe
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\obj\Debug\Coding.pdb
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\bin\Debug\Coding.exe
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\bin\Debug\Coding.pdb
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\obj\Debug\Coding.csprojResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\obj\Debug\Coding.Form1.resources
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\obj\Debug\Coding.Properties.Resources.resources
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\Coding\Coding\obj\Debug\Coding.csproj.GenerateResource.Cache
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\bin\Debug\Coding.exe.config
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\obj\Debug\Coding.exe
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\obj\Debug\Coding.pdb
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\bin\Debug\Coding.exe
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\bin\Debug\Coding.pdb
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\obj\Debug\Coding.csprojResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\obj\Debug\Coding.Form1.resources
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\obj\Debug\Coding.Properties.Resources.resources
+C:\Users\Elisa\Desktop\POLI\SEM V\POSK\projekty\Coding\Coding\obj\Debug\Coding.csproj.GenerateResource.Cache
